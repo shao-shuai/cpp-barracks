@@ -2,3 +2,5 @@
 *.exe
 *.out
 *.app
+io_library
+string``
