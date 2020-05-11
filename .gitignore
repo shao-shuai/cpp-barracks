@@ -1,6 +1,5 @@
-# Executables
-*.exe
-*.out
-*.app
-io_library
-string``
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
